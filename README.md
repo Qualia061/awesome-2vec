@@ -3,6 +3,7 @@
 # awesome-2vec
 Curated list of 2vec-type embedding models
 
+
 If you know of 2vec-style models that are not mentioned here, please do a PR!
 
 For network/graph-specific embedding models have a look here: https://github.com/chihming/awesome-network-embedding
